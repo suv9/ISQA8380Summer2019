@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-proj
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# ISQA8380Summer2019
+>>>>>>> 25687e891102a3e04fed4af771c16f477c51f14e
